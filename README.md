@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Troi51
 - 👀 I’m interested in SQL
-- 🌱 I’m currently learning T-SQL, Indexes, Costrains and etc.
+- 🌱 I’m currently learning T-SQL, Indexes, Constrains and etc.
 - 📫 How to reach me: text me here!
 
 <!---
